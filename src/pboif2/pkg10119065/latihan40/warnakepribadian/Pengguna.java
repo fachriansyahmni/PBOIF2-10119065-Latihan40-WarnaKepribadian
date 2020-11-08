@@ -1,8 +1,13 @@
 package pboif2.pkg10119065.latihan40.warnakepribadian;
 
-/**
- *
- * @author Fachriansyah PC
+
+/*
+ * @author
+ * NAMA                 : Fachriansyah Muhammad Nur Ihsan
+ * KELAS                : PBOIF2
+ * NIM                  : 10119065
+ * Deskripsi Program    : Program ini menampilkan program penjelasan dari warna kepribadian
+                          dengan objek
  */
 public class Pengguna {
     private String nama, warna;
